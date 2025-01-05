@@ -1,0 +1,2 @@
+# auto_mpg_machine_learning_eda
+This project is a guided exercise from Maven Analytics. I used the dataset for a linear regression model as part of a machine learning project. I recently completed the "Python for Data Science and Machine Learning" course on Udemy, taught by Jose Portilla from Pierian Training. I applied the linear regression techniques I learned in the course to this dataset, and the results fit the model well. I also interpreted the results. The dataset for this project was sourced from Maven Analytics and focuses on Fuel Economy Prediction.
